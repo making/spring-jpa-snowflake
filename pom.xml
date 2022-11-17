@@ -18,7 +18,6 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <hikaricp.version>2.6.0</hikaricp.version>
         <springfox.version>2.5.0</springfox.version>
         <commonslang.version>3.5</commonslang.version>
         <commonsio.version>2.7</commonsio.version>
